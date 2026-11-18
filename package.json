@@ -1,0 +1,12 @@
+{
+  "name": "webhook-integration-pipeline",
+  "version": "1.0.0",
+  "description": "Orquestrador de webhooks e enriquecimento de dados via APIs",
+  "main": "pipeline.js",
+  "scripts": {
+    "start": "node pipeline.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
